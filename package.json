@@ -1,6 +1,6 @@
 {
   "gitRepoUrl": "https://github.com/zhuzhu5201/nav",
-  "provider": "Github",
+  "provider": "https://gitee.com/xiejiahe/nav",
   "branch": "main",
   "hashMode": true,
   "address": "",
